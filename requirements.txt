@@ -1,0 +1,12 @@
+pandas
+scipy
+tensorflow
+scikit-learn
+numpy
+opencv-python
+Flask
+Pillow
+
+
+-e .
+
